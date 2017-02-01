@@ -1,0 +1,97 @@
+.navbar-inverse {
+     border-radius: 0;
+     -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+     -ms-border-radius: 0;
+     -o-border-radius: 0;   
+     background-color: #5cb85c;
+     border-color: #5cb85c;
+
+}
+
+.navbar-inverse .navbar-brand, 
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+ .navbar-inverse .navbar-brand:hover {
+    color: #fff;
+    background-color: #1B5E20;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #dff0d8;
+
+}
+
+.table {
+    border-color: #d6e9c6;
+}
+
+.table, 
+.panel {
+     /* Simple Dropshadow */
+     -webkit-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     -moz-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+}
+
+.panel-success>.panel-heading, 
+.panel-footer {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #398439;
+}
+
+.panel-footer a {
+    color: #fff;
+}
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover {
+    color: #fff;
+    cursor: default;
+    background-color: #5cb85c;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.tab-content>.active  {
+    padding: 10px;
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.tab-pane .content>.active {
+     padding: 10px; 
+     background-color: #5cb85c;
+     color: #fff;
+}
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover,
+.nav>li>a:hover {
+   text-decoration: underline;
+   background-color: #5cb85c;
+   color: #fff;
+}
+
+.faq {
+   border: 1px #fff solid;
+}
+
+hr {
+     border: 1px #000 solid;
+}
+
+a {
+    color: #1B5E20;
+    font-weight: 700;
+}
+
+.return {
+     padding-top: 10px;
+}

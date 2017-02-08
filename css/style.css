@@ -30,7 +30,11 @@
 }
 
 .fa {
+<<<<<<< HEAD
    padding-left: 20px;
+=======
+   padding-left: 20;
+>>>>>>> origin/gh-pages
 }
 
 .table, 
@@ -97,7 +101,12 @@ a {
 }
 
 .return {
+<<<<<<< HEAD
 
     padding-top: 10px;
 }
 
+=======
+     padding-top: 10px;
+}
+>>>>>>> origin/gh-pages

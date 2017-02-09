@@ -1,0 +1,326 @@
+/* References 
+-- Remove space between navbar and jumbotron: http://stackoverflow.com/questions/18410742/remove-space-between-navbar-and-jumbotron-in-bootstrap-3
+
+*/
+
+/*========================================*/
+
+
+
+/* Top Header */
+
+.navbar {
+     margin-bottom: 0;
+}
+
+.navbar-default {
+     background-color: #5cb85c;
+     border-color: #5cb85c;
+}
+
+.navbar-brand {
+     padding-left: 25px;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:visited {
+     color: #fff;
+     background-color: transparent;
+}
+
+.navbar-default .navbar-brand:hover {
+     color: #fff;
+     background-color: transparent;
+     text-decoration: underline;
+}
+/*========================================*/
+
+
+/* Navigation */
+
+.navbar-right { 
+     padding-right: 25px;
+}
+
+
+.nav .navbar-nav > li >a {
+     color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:visited {
+     color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+     color: #fff;
+     background-color: transparent;
+     text-decoration: underline;
+}
+
+/*========================================*/
+
+
+/* Navigation Toggle Button */
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: #33691E;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+/*========================================*/
+
+/* Call to Action - Intro page */
+
+.jumbotron {
+     margin-bottom: 0px; 
+     background-color: #5cb85c;
+     color: #fff;
+}
+
+
+/*
+#intro {
+     background-color: #5cb85c;
+     color: #fff;
+     padding: 30px;
+     margin-top: 0;
+}
+*/
+
+
+/*
+a {
+     color: #fff;
+}
+
+a:visited,
+a:hover {
+     color: #fff;
+     text-decoration: underline;
+}
+*/
+
+/*========================================*/
+
+/* Styles Info Area */
+
+#styles {
+     padding: 20px;
+}
+
+/*========================================*/
+
+
+/* Colors */
+
+.color-swatch {
+  border: 1px solid #000;
+  width: 80px;
+  height: 80px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.color-text {
+  padding-top: 5px;
+  font-size: 12px;
+}
+
+.background {
+     background-color: #ffffff;
+}
+
+.second-main {
+     background-color: #5cb85c;
+}
+
+.text {
+     background-color: #333;
+}
+
+.nav-hover-link {
+     background-color: #1B5E20;
+}
+
+.table-stripes {
+     background-color: #dff0d8;
+}
+
+.shadow {
+     background-color: #000;
+}
+
+/*========================================*/
+
+/* Table */
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #dff0d8;
+
+}
+
+.table {
+     /* Simple Dropshadow */
+     -webkit-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     -moz-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+}
+
+/*========================================*/
+
+
+/* OCSS Site Navigation */
+
+.navbar-inverse {
+     border-radius: 0;
+     -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+     -ms-border-radius: 0;
+     -o-border-radius: 0;   
+     background-color: #5cb85c;
+     border-color: #5cb85c;
+
+}
+
+.navbar-inverse .navbar-brand, 
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+ .navbar-inverse .navbar-brand:hover {
+    color: #fff;
+    background-color: #1B5E20;
+}
+
+/*========================================*/
+
+
+/* Panels */
+
+.panel {
+     /* Simple Dropshadow */
+     -webkit-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     -moz-box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+     box-shadow: 6px 6px 17px 0px rgba(0,0,0,0.26);
+}
+
+.panel-success>.panel-heading, 
+.panel-footer {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #398439;
+}
+
+.panel-footer a {
+    color: #fff;
+}
+
+/*========================================*/
+
+
+/* Nav Tabs */
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover {
+    color: #fff;
+    cursor: default;
+    background-color: #5cb85c;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.tab-content>.active  {
+    padding: 10px;
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.tab-pane .content>.active {
+     padding: 10px; 
+     background-color: #5cb85c;
+     color: #fff;
+}
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a:hover,
+.nav>li>a:hover {
+   text-decoration: underline;
+   background-color: #5cb85c;
+   color: #fff;
+}
+
+/*========================================*/
+
+
+/* Grid Layout */
+
+/* From Bootstrap 3 CSS */
+.show-grid [class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eee;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+/*========================================*/
+
+/* Side Navigation */
+
+#top-nav {
+     padding-top: 40px;
+}
+
+#top-nav li {
+     padding: 15px;
+}
+
+#top-nav li a {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px #eee solid;
+    -webkit-border-radius: 10px;  
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+#top-nav li a:hover {
+     text-decoration: none;
+     background-color: #dff0d8;
+     color: #1B5E20;
+     
+}
+
+/*========================================*/
+
+
+/* Footer */
+
+footer {
+     padding: 80px 15px 15px 15px;
+}
+
+address strong a {
+     color: #337ab7;
+}

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- Viewport Tag -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Virginia Options Counseling Statewide Standards Training Website - Module 1</title>
+
+	<!-- CSS -->
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!--Custom CSS -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+	<!-- VCU Branding Bar -->
+	<script type="text/javascript" src="//branding.vcu.edu/bar/academic/latest.js" data-color-top-campaign="gold"></script>
+</head>
+<body>
+
+     <!-- Navbar -->
+     <nav class="navbar navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Options Counseling</a>
+        </div>
+
+        <!-- Navbar Collapse -->
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.html#training">Training</a></li>
+            <li><a href="index.html#modules">Modules</a></li>
+            <li><a href="index.html#refresher">Refresher</a></li>
+            <li><a href="index.html#faq">FAQ</a></li>
+          </ul>
+        </div>
+        <!--/.navbar-collapse -->
+      </div>
+    </nav>
+    <!-- END Navbar -->
+
+    <!-- Content -->
+    <div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Module 1: Overview of Options Counseling</h1>
+				<hr>
+				<p class="lead">Required for Executive Directors, Options Counseling Supervisors, staff who determine the need for Options Counseling, and Options Counselors (Time: 45 minutes) </p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6">
+				<a href="http://partnership.vcu.edu/optionscounseling/ocss_mod_one40913/start.html" target="_blank" alt="Image link for Module One">
+				     <img src="images/module01.jpg" class="img img-responsive img-rounded">
+                    </a>
+
+				<br><br>
+
+				<a class="btn btn-success btn-lg btn-block" href="https://ocss.soe.vcu.edu/" alt="Link to continue to the Options Counseling Quiz site" target="_blank" role="button">Continue to Module 1 Quiz</a>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-unstyled">
+					<li class="module-materials">
+					     <h3>Module Materials</h3>
+					</li>
+					<li class="module-materials">
+					     <a href="http://partnership.vcu.edu/optionscounseling/ocss_mod_one40913/start.html" target="_blank" alt="Link for Module One">
+					          Narrated PowerPoint
+					     </a>
+
+					</li>
+					<li class="module-materials">
+					     <a href="docs/mod1/powerpoint-script.docx" target="_blank" alt="Link to the PowerPoint script for Module 1">
+					          PowerPoint Script
+					     </a>
+					</li>
+					<li class="module-materials">
+                              <a href="docs/mod1/options-counseling-standards.pdf" target="_blank" alt="Virginia's Statewide Options Counseling Standards documents">
+                                   Virginia's Statewide Options Counseling Standards
+                              </a>
+					</li>
+					<li class="module-materials">
+                              <a href="docs/mod1/national-statement.pdf" target="_blank" alt="Options Counseling: A National Perspective document">
+                                   Options Counseling: A National Perspective
+                              </a>
+					</li>
+					<li class="module-materials">
+                              <a href="docs/mod1/resource-links.pdf" target="_blank" alt="Person Centered Practices Resources Links document">
+                                   Person Centered Practices Resources Links
+                              </a>
+					</li>
+					<li class="module-materials">
+                              <a href="https://docs.google.com/a/vcu.edu/forms/d/e/1FAIpQLSdXd2Us9CihDv5Ew0nbCNbd35aDaYUblhcpyhCCGnGPcGZw-w/viewform" target="_blank" alt="Link to a form to ask questions about the module">
+                                   Questions about the Module? Click here
+                              </a>
+					</li>
+				</ul>
+			</div>
+		</div>
+          
+          <hr>
+		
+          <div class="row">
+		     <div class="col-md-12">
+		          <h3>Other available modules:</h3>
+		          <br>
+		     </div>
+		     
+		     <div class="col-md-3">
+                    <div class="panel panel-success">
+                      <div class="panel-heading">
+                        <h3 class="panel-title text-center">Module 2</h3>
+                      </div>
+                      <div class="panel-body">
+                        Required for Staff Who Determine the Need for Options Counseling and Options Counselors <br>(Time: 30 minutes)
+                      </div>
+                      <div class="panel-footer text-center">
+                           <a href="module2.html">Continue to Module 2</a>
+                      </div>
+                    </div> 
+		     </div>
+		     
+		     <div class="col-md-3">
+		         <div class="panel panel-success">
+                      <div class="panel-heading">
+                        <h3 class="panel-title text-center">Module 3</h3>
+                      </div>
+                      <div class="panel-body">
+                        Required for Options Counselors <br>(Time: 90 minutes)
+                      </div>
+                      <div class="panel-footer text-center">
+                           <a href="module3.html">Continue to Module 3</a>
+                      </div>
+                    </div> 
+               </div>
+               
+		     <div class="col-md-3">
+                    <div class="panel panel-success">
+                      <div class="panel-heading">
+                        <h3 class="panel-title text-center">Module 4</h3>
+                      </div>
+                      <div class="panel-body">
+                        Required for Options Counselors <br>(Time: 20 minutes)
+                      </div>
+                      <div class="panel-footer text-center">
+                           <a href="module4.html">Continue to Module 4</a>
+                      </div>
+                    </div>  
+		     </div>
+		     
+		     <div class="col-md-3">
+		          <div class="panel panel-success">
+                      <div class="panel-heading">
+                        <h3 class="panel-title text-center">Module 5</h3>
+                      </div>
+                      <div class="panel-body">
+                        Required for Options Counseling Supervisors and Executive Directors <br>(Time: 75 minutes)
+                      </div>
+                      <div class="panel-footer text-center">
+                           <a href="module5.html">Continue to Module 5</a>
+                      </div>
+                    </div>
+		     </div>
+		</div>
+		<hr>
+		
+		<!-- Footer -->
+		<div class="row">
+			<div class="col-md-6">
+				<address>
+					<strong><a href="http://www.vcu.edu">Virginia Commonwealth University</a></strong><br>
+					<strong><a href="http://www.soe.vcu.edu/">School of Education</a></strong><br>
+				  	<strong><a href="http://partnership.vcu.edu/">Partnership for People with Disabilities</a></strong><br>
+				  	700 East Franklin Street<br>
+				  	P.O. Box 843020<br>
+				  	1st Floor, Suite 140<br>
+				  	Richmond, VA 23219<br>
+				  	<strong>Phone:</strong> (804) 828-3876<br>
+				  	<strong>TDD Relay:</strong> 800-828-1120<br>
+                  	Updated: 
+					<script type="text/javascript">
+					     document.write(document.lastModified.substring(0, document.lastModified.indexOf(' ')));
+					</script> 
+					<noscript>
+				        January 2017
+				    </noscript>
+				</address>
+			</div>
+
+			<div class="col-md-6">
+				<img src="images/newdars.jpg" alt="Logo for the Virginia Department For Aging And Rehabilitative Services">
+			</div>
+		</div>
+		<!-- END Footer -->
+
+    </div>
+    <!-- END Content -->
+
+
+
+
+	<!-- Javascript -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+	<!-- Bootstrap JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+	<!-- Custom JavaScript -->
+	<script src="js/ocss.js"></script>
+
+
+</body>
+</html>
